@@ -21,6 +21,7 @@ class Die extends Component {
       <i
         className={classes}
         onClick={this.handleClick}
+        disabled={disabled}
       />
     );
   }
