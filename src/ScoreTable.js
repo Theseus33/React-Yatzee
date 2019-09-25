@@ -38,6 +38,8 @@ class ScoreTable extends Component {
             </tbody>
           </table>
         </section>
+        <h2>Total Score</h2>
+
       </div>
     )
   }
